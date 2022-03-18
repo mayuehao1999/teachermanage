@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "advertised.listeners",
+      "type": "java.lang.String",
+      "description": "Description for advertised.listeners."
+  }
+] }
